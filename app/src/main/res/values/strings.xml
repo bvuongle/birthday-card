@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Birthday Card</string>
+    <string name="happy_birthday_text">Yo, It\'s your birthday</string>
+    <string name="msg_1">Rise and Shine, babe</string>
+    <string name="author_1">bvuongle</string>
+    <string name="from_msg">From %1$s</string>
 </resources>
